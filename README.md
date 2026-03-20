@@ -5,23 +5,25 @@
 
 ## 🧠 Year 1: Foundations (Current Semester)
 
-| MIT Course | Course Name        | What You Learn               | Track 1 (Game/Systems)    | Track 3 (AI/Quant/Robotics) |
-| ---------- | ------------------ | ---------------------------- | ------------------------- | --------------------------- |
-| 6.100L     | Python Programming | Coding fundamentals          | Better Roblox tooling     | ML foundations              |
-| 18.01      | Calculus           | Derivatives, integrals       | Player growth curves      | ML math                     |
-| 6.1200     | Discrete Math      | Logic, proofs, combinatorics | Game state representation | Algorithm design            |
-| 8.01       | Physics            | Mechanics                    | Better game physics       | Simulation foundations      |
+| MIT Course | Course Name                 | What You Learn               | Track 1 (Game/Systems)       | Track 3 (AI/Quant/Robotics) |
+| ---------- | --------------------------- | ---------------------------- | ---------------------------- | --------------------------- |
+| 6.1010     | Fundamentals of Programming | Software design              | Roblox architecture patterns | Systems thinking            |
+| 18.01      | Calculus                    | Derivatives, integrals       | Player growth curves         | ML math                     |
+| 6.1200     | Discrete Math               | Logic, proofs, combinatorics | Game state representation    | Algorithm design            |
+| 8.01       | Physics                     | Mechanics                    | Better game physics          | Simulation foundations      |
+| 6.1020     | Software Construction       | Software Const               | Unknown                      | Unknown                     |
 
 ---
 
 ## ⚙️ Year 1: Second Semester
 
-| MIT Course | Course Name                 | What You Learn             | Track 1 (Game/Systems)       | Track 3 (AI/Quant/Robotics) |
-| ---------- | --------------------------- | -------------------------- | ---------------------------- | --------------------------- |
-| 6.1010     | Fundamentals of Programming | Software design            | Roblox architecture patterns | Systems thinking            |
-| 18.02      | Multivariable Calculus      | Vectors, gradients         | 3D game math                 | ML optimization             |
-| 6.1210     | Algorithms                  | Sorting, searching, graphs | Efficient game logic         | Anti-cheat algorithms       |
-| 8.02       | Physics II                  | Electricity, magnetism     | Hardware foundations         | Robotics sensors            |
+| MIT Course | Course Name                      | What You Learn             | Track 1 (Game/Systems)       | Track 3 (AI/Quant/Robotics) |
+| ---------- | ---------------------------      | -------------------------- | ---------------------------- | --------------------------- |
+| 6.1060     | Software Performance Engineering | Software Performance       | Unknown                      | Unknown                     |
+| 18.02      | Multivariable Calculus           | Vectors, gradients         | 3D game math                 | ML optimization             |
+| 6.1210     | Algorithms                       | Sorting, searching, graphs | Efficient game logic         | Anti-cheat algorithms       |
+| 8.02       | Physics II                       | Electricity, magnetism     | Hardware foundations         | Robotics sensors            |
+| 6.1910     | Computation Structures           | Computer architecture      | Performance optimization     | Hardware understanding      |
 
 ---
 
@@ -29,7 +31,7 @@
 
 | MIT Course | Course Name                      | What You Learn        | Track 1 (Game/Systems)   | Track 3 (AI/Quant/Robotics) |
 | ---------- | -------------------------------- | --------------------- | ------------------------ | --------------------------- |
-| 6.1910     | Computation Structures           | Computer architecture | Performance optimization | Hardware understanding      |
+| 6.5060     | Algorithm Engineering            | Unknown               | Unknown                  | Unknown                     |
 | 6.1800     | Computer Systems Engineering     | Operating systems     | Server-side Roblox       | Distributed systems         |
 | 6.2000     | Electrical Circuits              | Circuit analysis      | Gaming hardware          | Robotics hardware           |
 | 6.2510     | Introduction to Machine Learning | Basic ML algorithms   | Better anti-cheat        | ML foundations              |
