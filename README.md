@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 Year 1: Foundations (Current Semester)
+## 🧠 Year 1: Foundations (Current Semester) (April, 2026 - July, 2026)
 
 | MIT Course | Course Name                 | What You Learn               | Track 1 (Game/Systems)       | Track 3 (AI/Quant/Robotics) |
 | ---------- | --------------------------- | ---------------------------- | ---------------------------- | --------------------------- |
@@ -15,7 +15,7 @@
 
 ---
 
-## ⚙️ Year 1: Second Semester
+## ⚙️ Year 1: Second Semester (August, 2026 - November, 2026 + December, 2026)
 
 | MIT Course | Course Name                      | What You Learn             | Track 1 (Game/Systems)       | Track 3 (AI/Quant/Robotics) |
 | ---------- | ---------------------------      | -------------------------- | ---------------------------- | --------------------------- |
@@ -27,7 +27,7 @@
 
 ---
 
-## 🖥️ Year 2: Core Systems
+## 🖥️ Year 2: Core Systems (April, 2027 - July, 2027) + (August, 2027 - November, 2027 + December, 2027)
 
 | MIT Course | Course Name                      | What You Learn        | Track 1 (Game/Systems)   | Track 3 (AI/Quant/Robotics) |
 | ---------- | -------------------------------- | --------------------- | ------------------------ | --------------------------- |
@@ -46,7 +46,7 @@
 
 ---
 
-## 🌐 Year 3: Depth Areas
+## 🌐 Year 3: Depth Areas (April, 2028 - July, 2028) + (August, 2028 - November, 2028 + December, 2028)
 
 | MIT Course | Course Name         | What You Learn      | Track 1 (Game/Systems)    | Track 3 (AI/Quant/Robotics) |
 | ---------- | ------------------- | ------------------- | ------------------------- | --------------------------- |
@@ -63,7 +63,7 @@
 
 ---
 
-## 🤖 Year 4: AI & Advanced Systems
+## 🤖 Year 4: AI & Advanced Systems (April, 2029 - July, 2029) + (August, 2029 - November, 2029 + December, 2029)
 
 | MIT Course | Course Name                       | What You Learn       | Track 1 (Game/Systems)  | Track 3 (AI/Quant/Robotics) |
 | ---------- | --------------------------------- | -------------------- | ----------------------- | --------------------------- |
