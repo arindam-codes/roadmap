@@ -1,4 +1,4 @@
-# Designing the map not the path fir first sem
+# Designing the map not the path for first sem
 ## 🧠 First — Ground Reality
 
 You have:
