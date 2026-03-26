@@ -1,91 +1,93 @@
+# **9-day cycle**
 
+✔️ This is powerful for:
 
-# 🔥 FINAL WEEK 
-
-## 📅 MONDAY
-
-* Block 1 → **6.1010 Lecture 1**
-* Block 2 → **18.01 Lecture 1**
-* Block 3 → **Calculus problems**
-* Block 4 → **Coding practice**
+* Deep learners 
+* Long focus blocks
+* Reduced switching
 
 ---
 
-## 📅 TUESDAY
+# 🔥 FINAL 9-DAY SYSTEM (CLEAN VERSION)
 
-* Block 1 → **6.1200 Lecture 1**
-* Block 2 → **8.01 Lecture 1**
-* Block 3 → **Discrete math problems**
-* Block 4 → **Physics numericals**
+## 🟢 DAY 1 — 6.1010 (Deep Day)
 
----
-
-## 📅 WEDNESDAY (STRUGGLE + REINFORCE)
-
-* Block 1 → **18.01 hard problems**
-* Block 2 → **8.01 conceptual problems**
-* Block 3 → **6.1200 proofs**
-* Block 4 → **6.1010 coding challenge**
-
-👉 No new lectures → only thinking
+* Lecture
+* Coding
+* Practice
+* Mini build
 
 ---
 
-## 📅 THURSDAY (SECOND LECTURE WAVE 🔥)
+## 🟢 DAY 2 — 18.01 (Deep Day)
 
-* Block 1 → **6.1010 Lecture 2**
-* Block 2 → **18.01 Lecture 2**
-* Block 3 → **Apply both (problems)**
-* Block 4 → **Start PSET**
-
----
-
-## 📅 FRIDAY
-
-* Block 1 → **6.1200 Lecture 2**
-* Block 2 → **8.01 Lecture 2**
-* Block 3 → **Apply (problems)**
-* Block 4 → **PROJECT START**
+* Lecture
+* Derivations
+* Problems
 
 ---
 
-## 📅 SATURDAY (PSET HELL 🔥)
+## 🟢 DAY 3 — 8.01 (Deep Day)
 
-* Block 1 → **18.01 PSET**
-* Block 2 → **8.01 PSET**
-* Block 3 → **6.1200 PSET**
-* Block 4 → **6.1010 assignment**
-
----
-
-## 📅 SUNDAY PROJECT DAY
-
-* Block 1 → **Revision (all subjects)**
-* Block 2 → **MINI PROJECT**
-* Block 3 → **MINI PROJECT**
-* Block 4 → **MINI PROJECT**
+* Lecture
+* Concepts
+* Numericals
 
 ---
 
-# ✅ CHECK (your constraint satisfied)
+## 🟢 DAY 4 — 6.1200 (Deep Day)
 
-| Subject | Lectures    |
-| ------- | ----------- |
-| 6.1010  | ✅ Mon + Thu |
-| 18.01   | ✅ Mon + Thu |
-| 6.1200  | ✅ Tue + Fri |
-| 8.01    | ✅ Tue + Fri |
-
-👉 Each subject = **2 lectures/week minimum ✔️**
+* Lecture
+* Proofs
+* Logic problems
 
 ---
 
-# 🔥 Final Upgrade (this is powerful)
+## 🟡 DAY 5 — 6.1010 (Second Touch)
 
-The system now has:
+* Lecture 2
+* Hard coding
+* Debugging
 
-* 📘 Lecture layer (2× per subject)
-* 🧠 Struggle layer (Wednesday)
-* 🔥 PSET layer (Saturday)
-* 🚀 Project layer (Friday/Sunday)
+---
+
+## 🟡 DAY 6 — 18.01 (Second Touch)
+
+* Lecture 2
+* Tough problems
+
+---
+
+## 🟡 DAY 7 — 8.01 (Second Touch)
+
+* Lecture 2
+* Advanced numericals
+
+---
+
+## 🟡 DAY 8 — 6.1200 (Second Touch + PSET)
+
+* Lecture 2
+* Proof-heavy PSET 🔥
+
+---
+
+## 🔴 DAY 9 — REVISION + BUILD 🚀
+
+* 5–6 hrs → revision (all subjects)
+* 5–6 hrs → project
+
+---
+
+# ⚙️ DAILY STRUCTURE (IMPORTANT)
+
+Each day = 12 hrs
+
+### 🔹 Block System
+
+* Block 1 → Lecture (deep understanding)
+* Block 2 → Practice (basic → medium)
+* Block 3 → Hard problems
+* Block 4 → PSET / coding / application
+
 
