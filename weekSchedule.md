@@ -1,93 +1,99 @@
-# **9-day cycle**
 
-✔️ This is powerful for:
-
-* Deep learners 
-* Long focus blocks
-* Reduced switching
+# **deep-focus learner**
+## **1 subject per day, full immersion**
 
 ---
 
-# 🔥 FINAL 9-DAY SYSTEM (CLEAN VERSION)
+# 🧠 Final System
 
-## 🟢 DAY 1 — 6.1010 (Deep Day)
-
-* Lecture
-* Coding
-* Practice
-* Mini build
-
----
-
-## 🟢 DAY 2 — 18.01 (Deep Day)
-
-* Lecture
-* Derivations
-* Problems
+* ✅ **1 subject per day**
+* ✅ 12 hrs deep work
+* ✅ Coding daily (2 hrs separate)
+* ✅ 2 subjects per week (focus)
+* ✅ Weekend flexible
 
 ---
 
-## 🟢 DAY 3 — 8.01 (Deep Day)
+# 🔥 WEEK STRUCTURE
 
-* Lecture
-* Concepts
-* Numericals
+## Week A:
 
----
+* **6.1010 + 18.01**
 
-## 🟢 DAY 4 — 6.1200 (Deep Day)
+## Week B:
 
-* Lecture
-* Proofs
-* Logic problems
+* **8.01 + 6.1200**
 
 ---
 
-## 🟡 DAY 5 — 6.1010 (Second Touch)
+# 📅 MON–FRI (ONE SUBJECT PER DAY)
 
-* Lecture 2
-* Hard coding
-* Debugging
+## 🟢 MONDAY — 6.1010 (FULL IMMERSION)
 
----
-
-## 🟡 DAY 6 — 18.01 (Second Touch)
-
-* Lecture 2
-* Tough problems
+* 3 hrs → Lecture + code along
+* 3 hrs → Practice
+* 2 hrs → Hard problems
+* 2 hrs → Build something small
+* 2 hrs → Coding (separate practice)
 
 ---
 
-## 🟡 DAY 7 — 8.01 (Second Touch)
+## 🔵 TUESDAY — 18.01 (FULL IMMERSION)
 
-* Lecture 2
-* Advanced numericals
-
----
-
-## 🟡 DAY 8 — 6.1200 (Second Touch + PSET)
-
-* Lecture 2
-* Proof-heavy PSET 🔥
+* 3 hrs → Lecture
+* 3 hrs → Derivations
+* 2 hrs → Problems
+* 2 hrs → Hard problems
+* 2 hrs → Coding (light)
 
 ---
 
-## 🔴 DAY 9 — REVISION + BUILD 🚀
+## 🟢 WEDNESDAY — 6.1010
 
-* 5–6 hrs → revision (all subjects)
-* 5–6 hrs → project
+* 3 hrs → Lecture / advanced topics
+* 3 hrs → Coding practice
+* 2 hrs → Debugging
+* 2 hrs → Build feature
+* 2 hrs → Coding
 
 ---
 
-# ⚙️ DAILY STRUCTURE (IMPORTANT)
+## 🔵 THURSDAY — 18.01
 
-Each day = 12 hrs
+* 3 hrs → Lecture
+* 3 hrs → Problems
+* 2 hrs → Hard problems
+* 2 hrs → Book reading
+* 2 hrs → Coding
 
-### 🔹 Block System
+---
 
-* Block 1 → Lecture (deep understanding)
-* Block 2 → Practice (basic → medium)
-* Block 3 → Hard problems
-* Block 4 → PSET / coding / application
+## 🟡 FRIDAY — FLEX / WEAKNESS FIX 
 
+👉 Choose:
 
+* Either 6.1010 OR 18.01
+
+Focus:
+
+* PSET
+* Weak areas
+* Revision
+
+- 2 hrs coding
+
+---
+
+# ❤️ WEEKEND (REALISTIC)
+
+## 🟡 SATURDAY
+
+* Project (fun)
+* Rest → free
+
+---
+
+## 🟡 SUNDAY
+
+* 2–3 hrs → Light revision
+* Project
