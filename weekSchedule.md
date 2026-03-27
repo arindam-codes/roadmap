@@ -52,7 +52,12 @@
 
 * 3 hrs → Lecture / advanced topics
 * 3 hrs → Coding practice
-* 2 hrs → Debugging
+- 2 hrs → Structured Debugging Block
+  - **Flow:**
+    - 30 min → Read debugging book
+    - 90 min → Apply:
+      - Break code intentionally
+      - Fix it
 * 2 hrs → Build feature
 * 2 hrs → Coding
 
